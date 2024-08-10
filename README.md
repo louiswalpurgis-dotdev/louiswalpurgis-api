@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Genesis API</h1>
+  <h1>Genesis API V0</h1>
   <strong>Provide feeds and engagement layer</strong>
 </div>
 <br>
